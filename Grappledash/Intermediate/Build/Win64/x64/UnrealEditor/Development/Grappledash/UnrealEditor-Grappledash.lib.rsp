@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Grappledash.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\GrappledashEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\Grappledash.init.gen.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashCharacter.gen.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashGameMode.gen.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashProjectile.gen.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\TP_PickUpComponent.gen.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\TP_WeaponComponent.gen.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\Grappledash.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashCharacter.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashGameMode.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashPlayerController.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\GrappledashProjectile.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\TP_PickUpComponent.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\TP_WeaponComponent.cpp.obj"
+"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Grappledash\Grapple-Dash\Grappledash\Intermediate\Build\Win64\x64\UnrealEditor\Development\Grappledash\UnrealEditor-Grappledash.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Grappledash\\Grapple-Dash\\Grappledash\\Source\\Grappledash\\Grappledash.Build.cs",
+		"D:\\Unreal Projects\\Grappledash\\Grapple-Dash\\Grappledash\\Source\\Grappledash.Target.cs",
+		"D:\\Unreal Projects\\Grappledash\\Grapple-Dash\\Grappledash\\Source\\GrappledashEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}

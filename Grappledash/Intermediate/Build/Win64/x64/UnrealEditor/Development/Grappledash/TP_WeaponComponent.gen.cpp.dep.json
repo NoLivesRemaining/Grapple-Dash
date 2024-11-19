@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\unrealeditor\\inc\\grappledash\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\x64\\grappledasheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\grappledash\\definitions.grappledash.h",
+            "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\source\\grappledash\\tp_weaponcomponent.h",
+            "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\unrealeditor\\inc\\grappledash\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

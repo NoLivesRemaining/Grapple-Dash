@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Grappledash",
+			"Path": "..\\Source\\Grappledash.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GrappledashEditor",
+			"Path": "..\\Source\\GrappledashEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

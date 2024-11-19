@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\unrealeditor\\inc\\grappledash\\uht\\grappledashgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\x64\\grappledasheditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\grappledash\\definitions.grappledash.h",
+            "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\source\\grappledash\\grappledashgamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal projects\\grappledash\\grapple-dash\\grappledash\\intermediate\\build\\win64\\unrealeditor\\inc\\grappledash\\uht\\grappledashgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
